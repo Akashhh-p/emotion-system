@@ -1,4 +1,6 @@
-# 🎭 Emotion Recognition System
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)# 🎭 Emotion Recognition System
 
 ## 📌 Overview
 
@@ -96,6 +98,12 @@ Open `frontend/index.html` in browser
 * Deploy as web application
 
 ---
+
+
+<img width="1918" height="911" alt="Screenshot 2026-03-25 102213" src="https://github.com/user-attachments/assets/ad32c18f-b7bd-403e-bf45-d25f827c87da" />
+<img width="1914" height="907" alt="Screenshot 2026-03-25 102152" src="https://github.com/user-attachments/assets/7376b85e-ef13-4a72-8d93-1c1322324720" />
+<img width="1919" height="908" alt="Screenshot 2026-03-25 102256" src="https://github.com/user-attachments/assets/5e56ae29-6dbb-4c72-8770-1f60995c8618" />
+
 
 ## 👨‍💻 Author
 
